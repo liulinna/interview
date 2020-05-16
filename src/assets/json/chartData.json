@@ -1,0 +1,9 @@
+{"data": [
+  { "value": 20, "name": "黄金" },
+  { "value": 20, "name": "美股" },
+  { "value": 6, "name": "港股" },
+  { "value": 10, "name": "主板" },
+  { "value": 16, "name": "债券" },
+  { "value": 28, "name": "基金" }
+]
+}

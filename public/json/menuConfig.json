@@ -1,0 +1,77 @@
+[
+    {
+        "path": "/home",
+        "title": "首页",
+        "children":[{
+            "key":"ScientificInvestment",
+            "title":"科学投顾"
+        },{
+            "key":"investmentDecision",
+            "title":"投资决策"
+        },{
+            "key":"personalWealth",
+            "title":"个人财富"
+        },{
+            "key":"insuranceAdviser",
+            "title":"保险投顾"
+        }]
+    },
+    {
+        "path": "/solution",
+        "title": "解决方案",
+        "children":[{
+            "key":"solution1",
+            "title":"解决方案1"
+        },{
+            "key":"solution2",
+            "title":"解决方案2"
+        }]
+    },
+    {
+        "path": "/coreEngine",
+        "title": "核心引擎",
+        "children":[{
+            "key":"coreEngine1",
+            "title":"核心引擎1"
+        }]
+    },
+    {
+        "path": "/news",
+        "title": "最新动态",
+        "children":[{
+            "key":"ScientificInvestment",
+            "title":"科学投顾"
+        },{
+            "key":"investmentDecision",
+            "title":"投资决策"
+        },{
+            "key":"personalWealth",
+            "title":"个人财富"
+        },{
+            "key":"insuranceAdviser",
+            "title":"保险投顾"
+        }]
+    },
+    {
+        "path": "/partner",
+        "title": "合作伙伴",
+        "children":[{
+            "key":"partner1",
+            "title":"合作伙伴1"
+        },{
+            "key":"partner2",
+            "title":"合作伙伴2"
+        },{
+            "key":"partner3",
+            "title":"合作伙伴3"
+        }]
+    },
+    {
+        "path": "/about",
+        "title": "关于我们",
+        "children":[{
+            "key":"about1",
+            "title":"关于我们"
+        }]
+    }   
+]
