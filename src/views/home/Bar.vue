@@ -118,6 +118,7 @@ export default {
     border-right: 1px solid;
     position: absolute;
     top: 8px;
+    left: 22px;
 }
 >>>.el-slider__stop {
     background-color: #dcdcdc;
